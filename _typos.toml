@@ -1,0 +1,4 @@
+[default.extend-words]
+opf = "opf"
+[files]
+extend-exclude = ["CHANGELOG.md", "notebooks/*"]
